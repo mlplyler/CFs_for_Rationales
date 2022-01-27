@@ -1,4 +1,4 @@
-This is repo for "Making a (Counterfactual) Difference One Rationale at a Time"
+This is a repo for "Making a (Counterfactual) Difference One Rationale at a Time"
 
 ./prepare_data/ has scripts for preparing the training data for the TripAdvisor data. If you want splits for the RateBeer data, send me an email.
 ./train/ has scripts for training the models.
